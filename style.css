@@ -13,6 +13,13 @@
     blink-caret .75s step-end infinite;
 }
 
+.jumbotron-test {
+    font-size: 17px;
+    cursor: pointer;
+    width: 50%;
+    text-align:Center;
+}
+
 @keyframes typing {
   from { width: 0 }
   to { width: 100% }
